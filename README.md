@@ -8,7 +8,7 @@ We've created a Model Context Protocol (MCP) implementation that standardizes ho
 
 Our mission is to provide the foundational infrastructure that enables developers to rapidly prototype, build, and deploy sophisticated DeFi applications, automation scripts, and AI-powered agents on Sui, with a special focus on leveraging the deep liquidity and features of the Navi/Suilend Protocol.
 # Video Demonstration
-[https://www.youtube.com/watch?v=mPq3Kvj14hU](https://www.youtube.com/watch?v=mPq3Kvj14hU) or in the image below
+[https://www.youtube.com/watch?v=mPq3Kvj14hU](https://www.youtube.com/watch?v=mPq3Kvj14hU) or click in the image below
 [![Video](https://img.youtube.com/vi/mPq3Kvj14hU/maxresdefault.jpg)](https://www.youtube.com/watch?v=mPq3Kvj14hU)
 
 ## 🤖 What is MCP (Model Context Protocol)?
